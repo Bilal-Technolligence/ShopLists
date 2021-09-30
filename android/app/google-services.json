@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045997519209",
+    "project_id": "shoplists-cee18",
+    "storage_bucket": "shoplists-cee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045997519209:android:83e55bff5b7873322d7df8",
+        "android_client_info": {
+          "package_name": "com.shoplists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045997519209-imbtr082todjs812netguc9qsgfp9pvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXkfe3UbI1dRoK1_FNFBqUglT27SiTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045997519209-imbtr082todjs812netguc9qsgfp9pvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
